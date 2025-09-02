@@ -1,9 +1,10 @@
-title: Margaret O'Connor ' # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Margaret O'Connor 
+logo: "crop.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  It;s almost christmas 
-  I want some pizza  <br><br>
-  <a href="https://www.linkedin.com/in/averyjsmith/">View My LinkedIn Profile</a> 
+  I'm a 🧬 Molecular Biologist interested in 📊 Data Analytics and Bioinformatics.
+  When I'm not working, I enjoy crafts like 🧶crochet and 🪡cross stitch.
+  Explore my data analytics projects here or find me on LinkedIn!  <br><br>
+  <a href="https://www.linkedin.com/in/margaret-o-connor-ph-d-1051b155/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
