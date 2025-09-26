@@ -2,7 +2,7 @@
 
 ---
 
-### Learn About My Projects
+### Bioinformatics Projects
 
 #### [HOT to Go!: Insights into Food Delivery Data](/bank)
 <img src="images/Doordash Analytics.png?raw=true"/>
@@ -29,10 +29,18 @@ What are the top math schools in the state?
 
 ---
 
-### Category Name 2
+### Other Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
+#### [HOT to Go!: Insights into Food Delivery Data](/bank)
+<img src="images/Doordash Analytics.png?raw=true"/>
+I analyzed Dordash sales data using Excel pivot tables, scatter plots, and bar charts to find business opportunities and insights to improve the company's marketing.
+
+---
+#### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
+<img src="images/21 Days To Data Challenge.png?raw=true"/>
+For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
+
+---
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
