@@ -5,8 +5,8 @@
 ### Learn About My Projects
 
 #### [HOT to Go!: Insights into Food Delivery Data](/bank)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-Tolulope is the best
+<img src="images/Doordash Analytics.png?raw=true"/>
+I analyzed Dordash sales data using Excel pivot tables, scatter plots, and bar charts to find business opportunities and insights to improve the company's marketing.
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
